@@ -7,7 +7,7 @@ In this project, we have experimented with three popular pre-trained transformer
 
 ![image](https://github.com/shreyasngredd/TextSummarization/assets/15787360/76b23d60-5664-4120-ac7c-42f3ae5cd2f1)
 
-<sub> SOURCE: https://broutonlab.com/blog/summarization-of-medical-texts-machine-learning/ </sub>
+<sub> IMAGE SOURCE: https://broutonlab.com/blog/summarization-of-medical-texts-machine-learning/ </sub>
 
 
 
