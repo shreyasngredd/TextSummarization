@@ -9,7 +9,8 @@ We have applied the extractive summarization technique which tokenizes and encod
 NOTE: We have used pre-trained models for this project and did not use any of the shared training data. 
 
 
-<p align="center"> ![image](https://github.com/shreyasngredd/TextSummarization/assets/15787360/76b23d60-5664-4120-ac7c-42f3ae5cd2f1) </p>
+![image](https://github.com/shreyasngredd/TextSummarization/assets/15787360/76b23d60-5664-4120-ac7c-42f3ae5cd2f1) 
+
 
 <sub> IMAGE SOURCE: https://broutonlab.com/blog/summarization-of-medical-texts-machine-learning/ </sub>
 
