@@ -2,7 +2,11 @@
 
 Text summarization is the process of condensing a piece of text to its essential information, providing a concise and coherent summary while retaining the key ideas and important details, enabling readers to quickly understand the content without going through the entire text.
 
-In this project, we have experimented with three popular pre-trained transformer language models to summarize news data (Found on Kaggle: https://www.kaggle.com/datasets/sunnysai12345/news-summary). We have applied the extractive summarization technique which tokenizes and encodes the input text using the respective tokenizer for each model i.e., *BertTokenizer, XLNetTokenizer, GPT2Tokenizer* from *transformers* package from HuggingFace Project (https://huggingface.co/docs/transformers/index) and then the pre-trained model was used to obtain embeddings for the input text and later, we applied a scoring mechanism such as cosine similarity, sentence embeddings, etc. to rank the sentences based on importance and selected the top sentences to deliver a summary of the data. 
+In this project, we have experimented with three popular pre-trained transformer language models to summarize news data (Found on Kaggle: https://www.kaggle.com/datasets/sunnysai12345/news-summary). 
+
+We have applied the extractive summarization technique which tokenizes and encodes the input text using the respective tokenizer for each model i.e., *BertTokenizer, XLNetTokenizer, GPT2Tokenizer* from *transformers* package from HuggingFace Project (https://huggingface.co/docs/transformers/index) and then the pre-trained model was used to obtain embeddings for the input text and later, we applied a scoring mechanism such as cosine similarity, sentence embeddings, etc. to rank the sentences based on importance and selected the top sentences to deliver a summary of the data. 
+
+NOTE: We have used pre-trained models for this project and did not use any of the shared training data. 
 
 
 ![image](https://github.com/shreyasngredd/TextSummarization/assets/15787360/76b23d60-5664-4120-ac7c-42f3ae5cd2f1)
